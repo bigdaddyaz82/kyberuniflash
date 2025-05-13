@@ -1,0 +1,15 @@
+{
+  "name": "flash-arbitrage-engine",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "@aave/protocol-v2": "^1.0.0",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.0.0",
+    "@openzeppelin/contracts": "^4.0.0",
+    "chai": "^4.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.0.0"
+  }
+}
